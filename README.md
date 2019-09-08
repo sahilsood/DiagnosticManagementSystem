@@ -1,0 +1,2 @@
+# DiagnosticManagementSystem
+Diagnostic Management System Developed an independent application Diagnostic Medicare center Management System (DMS) website which is used for: To create an account for the new customer To view the Medicare services. Apply for any health checkup To find an medical Insurance agent and services To view the medical report online. The technology stack for the project Java/J2EE – Servlet, JSP (Back-End); JavaScript (Front-End) Oracle database Apache Tomcat Server
